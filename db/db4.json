@@ -28,8 +28,8 @@
                 "available":true,
                 "visible":true,
                 "estrelas": 4.89,
-                "valor-real": 379.00,
-                "valor-desconto": 199.99,
+                "ralorReal": 379.00,
+                "ralorDesconto": 199.99,
                 "size":{
                    "code":"3819231",
                    "label":"39/44"
@@ -65,8 +65,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.79,
-                "valor-real": 379.99,
-                "valor-desconto": 232.79,
+                "ralorReal": 379.99,
+                "ralorDesconto": 232.79,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -102,8 +102,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.79,
-                "valor-real": 599.99,
-                "valor-desconto": 279.99,
+                "ralorReal": 599.99,
+                "ralorDesconto": 279.99,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -139,8 +139,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.69,
-                "valor-real": 299.99,
-                "valor-desconto": 129.99,
+                "ralorReal": 299.99,
+                "ralorDesconto": 129.99,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -176,8 +176,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.8,
-                "valor-real": 399.99,
-                "valor-desconto": 271.59,
+                "ralorReal": 399.99,
+                "ralorDesconto": 271.59,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -213,8 +213,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.68,
-                "valor-real": 649.99,
-                "valor-desconto": 314.99,
+                "ralorReal": 649.99,
+                "ralorDesconto": 314.99,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -250,8 +250,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.79,
-                "valor-real": 599.99,
-                "valor-desconto": 279.99,
+                "ralorReal": 599.99,
+                "ralorDesconto": 279.99,
                 "size":{
                    "code":"5",
                    "label":"37"
@@ -287,8 +287,8 @@
                 "available":false,
                 "visible":true,
                 "estrelas": 4.89,
-                "valor-real": 379.00,
-                "valor-desconto": 199.99,
+                "ralorReal": 379.00,
+                "ralorDesconto": 199.99,
                 "size":{
                    "code":"5",
                    "label":"37"

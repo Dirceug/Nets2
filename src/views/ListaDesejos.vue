@@ -47,9 +47,9 @@ export default {
             const novoProduto = {
                 selectedProduct: produto.selectedProduct,
                 name: produto.name,
-                valorRealfixo: "123,99",
-                valorDescontofixo: "99,99",
-                estrelaFixa: 5,
+                valorRealfixo: produto.product.details.ralorReal,
+                valorDescontofixo: produto.product.details.ralorDesconto,
+                estrelaFixa: produto.product.details.estrelas,
             };
         console.log(novoProduto);
         // Adiciona o novo produto à lista

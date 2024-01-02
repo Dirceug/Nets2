@@ -14,11 +14,11 @@
                 <ul id="estrelas-iteradas">
                     <li v-bind:key="i" v-for="i in Array(estrelaFixa)">
                         <img :src="star" :alt="app_name" class="star">
-                    </li >{{ estrelaFixa }}.0
+                    </li >{{ produto.product.details.estrelas }}
                 </ul>
             </p>
-            <p class="valor-original">R$ {{ valorRealfixo }}</p>
-            <p class="valor-venda">R$ {{ valorDescontofixo }}</p>
+            <p class="valor-original">R$ {{ produto.product.details.ralorReal }}</p>
+            <p class="valor-venda">R$ {{ produto.product.details.ralorDesconto }}</p>
             <p>{{ imagem }}</p>
         </div>
     </div>
@@ -65,7 +65,10 @@ export default {
                     product: {
                         image: produto.product.image,
                         details: {
-                            name: produto.product.details.name
+                            name: produto.product.details.name,
+                            estrelas: produto.product.details.estrelas,
+                            ralorDesconto: produto.product.details.ralorDesconto,
+                            ralorReal: produto.product.details.ralorReal
                         },
                         selectedProduct: produto.selectedProduct,
                     }

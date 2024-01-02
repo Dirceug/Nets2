@@ -30,8 +30,10 @@ export default {
     }
   }, methods: {
         getProdutos(){
-            axios.get(`https://run.mocky.io/v3/5ab15ba4-fe75-4a4f-b54c-7efa540e3e3d`)
+          
+            // axios.get(`https://run.mocky.io/v3/5ab15ba4-fe75-4a4f-b54c-7efa540e3e3d`)
             // axios.get(`https://run.mocky.io/v3/1928107e-7eed-41e6-b662-c4b389c01817`)
+            axios.get(`https://run.mocky.io/v3/e1eca572-f05d-40b5-8cbd-4afdc5c7d19c`)
             .then((response)=> {
                 console.log(response.data)
                 this.produtos = response.data.products
