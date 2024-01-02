@@ -1,0 +1,65 @@
+{
+    "produtos":[
+        {
+        "id": 1,
+        "nome": "Tênis Adidas Ultra Energy Feminino - Preto+Branco",
+        "estrelas": 4.89,
+        "valor-real": 379.00,
+        "valor-desconto": 199.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisAdidasUltraEnergyFeminino-Preto%2BBranco.jpg"
+    },{
+        "id": 2,
+        "nome": "Tênis Mizuno Wave Titan 2 Unissex - Preto",
+        "estrelas": 4.79,
+        "valor-real": 379.99,
+        "valor-desconto": 232.79,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisMizunoWaveTitan2Unissex-Preto.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Tênis Nike Zoom Bella 6 Feminino - Preto",
+        "estrelas": 4.49,
+        "valor-real": 599.99,
+        "valor-desconto": 279.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisNikeZoomBella6Feminino-Preto.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Tênis Oakley Stratus Unissex - Preto",
+        "estrelas": 4.68,
+        "valor-real": 649.99,
+        "valor-desconto": 349.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisOakleyStratusUnissex-Preto.jpg"
+    },{
+        "id": 5,
+        "nome": "Tênis Olympikus 146G Ultraleve Feminino - Preto",
+        "estrelas": 4.69,
+        "valor-real": 299.99,
+        "valor-desconto": 129.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/a13ca619a30438007dfc8a2da27885e0f4327c26/TenisOlympikus146GUltraleveFeminino-Preto.jpg"
+    },{
+        "id": 6,
+        "nome": "Tênis Adidas Grand Court 2.0 Feminino - Branco+Preto",
+        "estrelas": 4.8,
+        "valor-real": 399.99,
+        "valor-desconto": 271.59,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisAdidasGrandCourt20Feminino-Branco%2BPreto.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Tênis Oakley Stratus Unissex - Preto+Vermelho",
+        "estrelas": 4.68,
+        "valor-real": 649.99,
+        "valor-desconto": 314.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisOakleyStratusUnissex-Preto%2BVermelho.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Tênis Oakley Stratus Unissex - Cinza Claro",
+        "estrelas": 4.68,
+        "valor-real": 649.99,
+        "valor-desconto": 214.99,
+        "foto-destaque": "https://raw.githubusercontent.com/Dirceug/fotosNets/main/TenisOakleyStratusUnissex-CinzaClaro.jpg"
+    }
+    ]
+}
